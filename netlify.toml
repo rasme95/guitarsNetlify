@@ -1,0 +1,6 @@
+[build]
+functions = "functions"
+
+[dev]
+functions = "functions"  # Explicitly set functions directory
+port = 8888  # Port Netlify Dev uses
